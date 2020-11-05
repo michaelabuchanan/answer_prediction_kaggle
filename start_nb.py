@@ -1,3 +1,5 @@
+import sys
+
 sys.path.append("/home/michaela/kaggle/answer_prediction_kaggle/riiideducation")
 
 import riiideducation
